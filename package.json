@@ -1,0 +1,22 @@
+{
+  "name": "react-search",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.3"
+  },
+  "dependencies": {
+    "jsonp": "^0.2.1",
+    "react": "^15.4.2",
+    "react-autocomplete": "^1.4.0",
+    "react-dom": "^15.4.2",
+    "react-instantsearch": "^3.2.1",
+    "searchkit": "^0.10.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

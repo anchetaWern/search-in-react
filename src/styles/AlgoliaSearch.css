@@ -1,0 +1,56 @@
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+button.ais-ClearAll__root {
+    margin-top: 10px;
+}
+
+.filters {
+    float: left;
+    width: 300px;
+}
+
+.hits {
+    float: left;
+    width: 570px;
+    margin-left: 30px;
+}
+
+.middle {
+    overflow: hidden;
+}
+
+.top {
+    padding: 20px;
+}
+
+.bottom {
+    float: right;
+}
+
+span.ais-Highlight__nonHighlighted {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.hit-price {
+    color: #767676;
+}
+
+.hit {
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.hit-img-container {
+	width: 60px;
+	float: left;
+}
+
+.hit-details {
+	width: 470px;
+	float: left;
+	margin-left: 20px;
+}
